@@ -1,0 +1,64 @@
+LIZENZ- UND NUTZUNGSBEDINGUNGEN (GRATIS-VORSCHAU)
+===================================================
+
+Produkt: KI-Trainingsdaten Gratis-Vorschau (83 Datensätze, alle Branchen)
+Stand: 01.10.2026
+
+WICHTIG: Diese Lizenz gilt NUR für dieses kostenlose Vorschau-Paket (83
+Datensätze). Die bezahlten Pakete (Branchen-Pakete, All-Access Bundle)
+unterliegen einer eigenen, strengeren Lizenz, die dem jeweiligen Download
+beiliegt und u.a. die Weitergabe der Rohdaten an Dritte ausschließt.
+
+1. Art des Inhalts
+-------------------
+Alle Datensätze in diesem Paket sind vollständig KI-generiert (synthetisch).
+Sie sind Trainings-/Fine-Tuning-Material für Sprachmodelle, keine echten
+Kundenfälle, keine Rechts-, Steuer- oder medizinische Beratung und keine
+geprüfte fachliche Auskunft für einen konkreten Einzelfall.
+
+2. Was Sie mit diesem Gratis-Paket dürfen
+-------------------------------------------
+Dieses Vorschau-Paket ist ausdrücklich als Werbe- und Demomaterial gedacht.
+Sie dürfen die enthaltenen 83 Datensätze:
+  - zum Training, Fine-Tuning, Evaluieren und Benchmarken eigener oder
+    beauftragter KI-/ML-Modelle verwenden (kommerziell und nicht-kommerziell),
+  - verarbeiten, kürzen, umformatieren oder mit eigenen Daten kombinieren,
+  - öffentlich weitergeben, erneut veröffentlichen und in öffentlich
+    zugänglichen Datensatz-Repositories (z. B. Hugging Face, GitHub, Kaggle)
+    spiegeln oder listen, solange ein Hinweis auf die Originalquelle
+    (Hermes Trainingsdaten, xxxxwolfxxxx.gumroad.com) sowie ein Link zu den
+    vollständigen, kostenpflichtigen Paketen erhalten bleibt.
+
+Alle Rechte an einem damit trainierten oder feingetunten Modell sowie an
+dessen Ausgaben (Model Outputs) liegen bei Ihnen; wir erheben daran keine
+Ansprüche.
+
+Herkunft der Daten: Die Datensätze wurden vollständig durch ein KI-Modell
+neu erzeugt, nicht aus fremden Webseiten, Dokumenten oder Datenbanken
+kopiert oder extrahiert ("gescraped"). Es sind keine urheberrechtlich
+geschützten Werke Dritter oder personenbezogenen Daten realer Personen
+enthalten.
+
+3. Was NICHT erlaubt ist
+--------------------------
+  - Verwendung als tatsächliche Rechts-, Steuer- oder medizinische Beratung
+    gegenüber Endkunden ohne eigene fachliche Prüfung.
+  - Verkauf der unveränderten Rohdaten als eigenständiges, kostenpflichtiges
+    Trainingsdatenprodukt unter Verschweigen der ursprünglichen Quelle.
+
+4. Gewährleistung
+--------------------
+Die Daten werden "wie besehen" bereitgestellt. Angesichts des synthetischen
+Charakters können einzelne Angaben unvollständig, zu allgemein oder im
+Einzelfall unzutreffend sein. Es wird keine Garantie für Vollständigkeit,
+Aktualität oder Anwendbarkeit auf einen konkreten Fall übernommen.
+
+5. Haftungsbegrenzung
+------------------------
+Jegliche Haftung für Schäden aus der Nutzung dieser Daten ist, soweit
+gesetzlich zulässig, ausgeschlossen.
+
+6. Kontakt
+-----------
+Fragen zur Lizenz oder zu den vollständigen Paketen:
+hebebuehnenboizenburg@gmail.com / xxxxwolfxxxx.gumroad.com
